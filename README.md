@@ -15,10 +15,6 @@ For development, you will only need Node.js installed on your environement.
 * Redux saga
 * React hooks
 * Styled components
-## Project description and explanation
-* This project is designed by applying container componant pattern, containers only have buissness logic and componants are just UI presentation.
-* This project is modular where every module has its own comonants,state,actions,reducers,apis & sagas,this pattern helps in scaling any projec
-* however it was not needed in this project as only one module was used,however its just a good practice for building scalable projects. 
 ## Project Tree
 ```
     ├─ .eslintrc 
