@@ -2,8 +2,8 @@
 ## Requirements
 For development, you will only need Node.js installed on your environement.
 ## Install
-    $ git clone https://github.com/karimelshami/rick-and-morty
-    $ cd rick-morty
+    $ git clone https://github.com/karimelshami/react-redux-baseproject
+    $ cd react-redux-baseproject
     $ yarn
 ## Start & watch
     $ yarn start
